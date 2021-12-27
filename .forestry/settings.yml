@@ -42,9 +42,6 @@ sections:
   path: exampleSite/content/english/contact/_index.md
   label: Contact (en)
 - type: document
-  path: exampleSite/content/deutsch/contact/_index.md
-  label: Contact (de)
-- type: document
   path: exampleSite/content/english/pricing/_index.md
   label: Pricing (en)
 - type: document
@@ -83,9 +80,6 @@ sections:
 - type: document
   path: exampleSite/config/_default/menus.en.toml
   label: Menu (en)
-- type: document
-  path: exampleSite/config/_default/menus.de.toml
-  label: Menu (de)
 upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
