@@ -5,13 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: About
+- type: heading
   label: Homepage
 - type: document
   path: exampleSite/content/english/_index.md
   label: Homepage (en)
-- type: document
-  path: exampleSite/content/deutsch/_index.md
-  label: Homepage (de)
 - type: heading
   label: Blog
 - type: document
